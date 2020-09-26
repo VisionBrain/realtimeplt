@@ -43,9 +43,6 @@ from keras.layers import Flatten, Dense, Activation
 
 # raw keras
 from livelossplot import PlotLossesKeras
-
-# tensorflow.keras
-# from livelossplot import PlotLossesKerasTF
 ```
 
 ## Supported DataScience Libraries
