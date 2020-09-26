@@ -69,8 +69,14 @@ To use them, initialize PlotLosses with some outputs:
 plotlosses = PlotLosses(outputs=[MatplotlibPlot(), TensorboardLogger()])
 ```
 
+### Future Goals
+* Make the library to work with any ANN network
+* Make this work with OPEN cv
+* Addation features to be added: Hyperparameter Tuning
+
 ## Note***
- [realtimeplt](https://pypi.org/project/realtimeplt/) is a faster and accurate version of [liveplot](https://github.com/PhilReinhold/liveplot) & in no manner VisionBrain is trying to copy liveplot.
+ [realtimeplt](https://pypi.org/project/realtimeplt/) is a faster and accurate version and had been adapted from [liveplot](https://github.com/PhilReinhold/liveplot) & in no means VisionBrain is trying to copy liveplot.
+ 
 
 
 
