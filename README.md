@@ -71,7 +71,7 @@ plotlosses = PlotLosses(outputs=[MatplotlibPlot(), TensorboardLogger()])
 
 ### Future Goals
 * Make the library to work with any ANN network
-* Make this work with OPEN cv
+* Make this work with OpenCv
 * Addation features to be added: Hyperparameter Tuning
 
 ## Note***
