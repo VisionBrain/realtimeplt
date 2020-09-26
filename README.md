@@ -1,5 +1,11 @@
-# realtimeplt
+<p align="center">
+    <br>
+    <img src="https://github.com/VisionBrain/realtimeplt/blob/master/realtimeplt.png" width="200"/>
+    <br>
+</p>
+<div align='center'>
 
+# realtimeplt
 ![PyPI status](https://img.shields.io/pypi/status/realtimeplt.svg)
 ![MIT license - PyPI](https://img.shields.io/pypi/l/realtimeplt.svg)
 ![Python version - PyPI](https://img.shields.io/pypi/pyversions/realtimeplt.svg)
