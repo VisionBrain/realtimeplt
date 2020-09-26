@@ -3,6 +3,7 @@
     <img src="https://github.com/VisionBrain/realtimeplt/blob/master/realtimeplt.png" width="300"/>
     <br>
 </p>
+
 ![PyPI status](https://img.shields.io/pypi/status/realtimeplt.svg)
 ![MIT license - PyPI](https://img.shields.io/pypi/l/realtimeplt.svg)
 ![Python version - PyPI](https://img.shields.io/pypi/pyversions/realtimeplt.svg)
