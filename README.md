@@ -34,12 +34,18 @@ realtimeplt is a Python library made by VisionBrain which foucuses on getting th
 ## Use 
 The major dependency of realtimeplt is livelossplot
 ```python
+%matplotlib inline
+
+from keras.datasets import mnist
+from keras.utils import to_categorical
+from keras.models import Sequential
+from keras.layers import Flatten, Dense, Activation
+
+# raw keras
 from livelossplot import PlotLossesKeras
-model.fit(X_train, Y_train,
-          epochs=10,
-          validation_data=(X_test, Y_test),
-          callbacks=[PlotLossesKeras()],
-          verbose=0)
+
+# tensorflow.keras
+# from livelossplot import PlotLossesKerasTF
 ```
 
 ## Supported DataScience Libraries
