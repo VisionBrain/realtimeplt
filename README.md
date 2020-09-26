@@ -7,6 +7,8 @@
 ![PyPI status](https://img.shields.io/pypi/status/realtimeplt.svg)
 ![MIT license - PyPI](https://img.shields.io/pypi/l/realtimeplt.svg)
 ![Python version - PyPI](https://img.shields.io/pypi/pyversions/realtimeplt.svg)
+![GitHub Workflow Status](https://img.shields.io/github/workflow/status/stared/livelossplot/Python%20package)
+[![Downloads](http://pepy.tech/badge/realtimeplt)](http://pepy.tech/count/realtimeplt)
 
 ## Installation
 ```bash
