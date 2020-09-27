@@ -1,6 +1,6 @@
 <p >
     <br>
-    <img src="https://github.com/VisionBrain/realtimeplt/blob/master/realtimeplt.png" width="300"/>
+    <img src="https://github.com/VisionBrain/realtimeplt/blob/master/realtimeplt.png" width="200"/>
     <br>
 </p>
 
