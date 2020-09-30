@@ -1,6 +1,6 @@
 <p >
     <br>
-    <img src="https://github.com/VisionBrain/realtimeplt/blob/master/logo.png" width="400"/>
+    <img src="https://github.com/VisionBrain/realtimeplt/blob/master/facebook_cover_photo_1.png" width="300"/>
     <br>
 </p>
 
