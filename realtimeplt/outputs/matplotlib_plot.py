@@ -2,7 +2,7 @@ import math
 from typing import Tuple, List, Dict, Optional, Callable
 
 import warnings
-
+%matplotlib.inline
 import numpy as np
 import matplotlib
 import matplotlib.pyplot as plt
