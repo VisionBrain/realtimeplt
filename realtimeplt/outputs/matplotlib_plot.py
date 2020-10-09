@@ -2,13 +2,14 @@ import math
 from typing import Tuple, List, Dict, Optional, Callable
 
 import warnings
-%matplotlib.inline
+
 import numpy as np
 import matplotlib
 import matplotlib.pyplot as plt
 from IPython.display import clear_output
 from livelossplot.main_logger import MainLogger, LogItem
 from livelossplot.outputs.base_output import BaseOutput
+
 
 
 class MatplotlibPlot(BaseOutput):
