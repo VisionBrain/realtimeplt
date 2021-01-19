@@ -76,7 +76,7 @@ plotlosses = PlotLosses(outputs=[MatplotlibPlot(), TensorboardLogger()])
 * Addation features to be added: Hyperparameter Tuning
 
 ## Note***
- [realtimeplt](https://pypi.org/project/realtimeplt/) is a faster and accurate version and had been adapted from [liveplot](https://github.com/PhilReinhold/liveplot) in no means VisionBrain is trying to copy. 
+ [realtimeplt](https://pypi.org/project/realtimeplt/) is a faster and accurate version and had been adapted from liveplot.
 
 
 
